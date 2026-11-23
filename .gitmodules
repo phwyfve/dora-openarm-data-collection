@@ -1,6 +1,7 @@
 [submodule "nodes/dora-openarm-data-collection-ui"]
 	path = nodes/dora-openarm-data-collection-ui
-	url = https://github.com/enactic/dora-openarm-data-collection-ui.git
+	url = https://github.com/phwyfve/dora-openarm-data-collection-ui.git
+	branch = sim-workspace
 [submodule "nodes/dora-openarm-quitter"]
 	path = nodes/dora-openarm-quitter
 	url = https://github.com/enactic/dora-openarm-quitter.git
@@ -30,7 +31,8 @@
 	url = https://github.com/enactic/dora-opencv-image-splitter.git
 [submodule "nodes/dora-openarm-kinematics"]
 	path = nodes/dora-openarm-kinematics
-	url = https://github.com/enactic/dora-openarm-kinematics.git
+	url = https://github.com/phwyfve/dora-openarm-kinematics.git
+	branch = sim-workspace
 [submodule "nodes/dora-openarm-mujoco"]
 	path = nodes/dora-openarm-mujoco
 	url = https://github.com/enactic/dora-openarm-mujoco.git
